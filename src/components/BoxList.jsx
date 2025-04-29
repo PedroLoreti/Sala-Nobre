@@ -1,5 +1,4 @@
 // src/components/BoxList.jsx
-// src/components/BoxList.jsx
 export default function BoxList({ data }) {
     return (
       <div style={{ 
